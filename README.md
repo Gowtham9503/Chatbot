@@ -1,4 +1,4 @@
-# AI Healthcare Assistant Chatbot
+# AI Healthcare Chatbot Assistant 
 
  - A Generative AI Medical Chatbot built using Hugging Face, Transformers, Streamlit, and the Google Flan-T5 Small model.
  - This AI Healthcare Assistant is designed to help users get professional answers to their medical queries while recommending consulting a doctor for serious symptoms.
